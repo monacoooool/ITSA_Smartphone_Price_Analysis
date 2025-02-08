@@ -1,0 +1,13 @@
+
+The following packages and libraries are required to run the ITSA analysis:
+
+- pandas       # Data manipulation and CSV file reading
+- numpy        # Numerical computations
+- statsmodels  # Statistical modeling and ITSA implementation
+- matplotlib   # Data visualization
+- seaborn      # Statistical data visualization
+- scipy        # Advanced statistical functions
+- datetime     # Handling date and time data
+- sklearn      # Machine learning and regression diagnostics
+- missingno    # Missing data visualization
+- tqdm         # Progress bar for iterative processes
