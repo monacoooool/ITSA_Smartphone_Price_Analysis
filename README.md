@@ -31,6 +31,8 @@ ITSA_Smartphone_Price_Analysis/
 │── requirements.txt             # List of required Python packages
 
 
+<br>  <!-- AGGIUNGE UNO SPAZIO PER SEPARARE I CAPITOLI -->
+
 ## Prerequisites
 
 The following Python libraries are required:
